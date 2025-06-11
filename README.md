@@ -1,4 +1,4 @@
-# 🌾 Rice Type Classification - Tabular Classification using PyTorch
+# 🌾 Paddy Predict - Tabular Classification using PyTorch
 
 This project demonstrates a deep learning approach to classify different types of rice grains using tabular data. The model is built with PyTorch and trained on the [Rice Type Classification Dataset](https://www.kaggle.com/datasets/mssmartypants/rice-type-classification) from Kaggle.
 
